@@ -6,13 +6,14 @@ layout: default
 
 <img class="profile-picture" src="profile_photo_square.jpg">
 
-I am a transportation planner and researcher based in Los Angeles, California. 
+Hi! I am Arun Lakshmanan. I am a PhD student at UIUC studying control theory
+and robotics.
 
-I've been fortunate enough to work on and study a variety of different topics within transportation, including the famous 'Carmageddon,' Los Angeles' innovative ExpressPark program, and the Vision Zero traffic safety initiative. In my spare time, I've undertaken other fun transportation-related projects, such as the Los Angeles Bus Map. 
+*The website is currently under construction. Please check back in a few days*
 
-Please take a look at my [resume](documents/Tim_Black_Resume.pdf) or reach out to me at [timothy.c.black@gmail.com](mailto:timothy.c.black@gmail.com)  
- 
- 
- 
- 
+Please take a look at my [resume](documents/arun_lakshmanan.pdf) or reach out to me at [lakshma2@illinois.edu](mailto:lakshma2@illinois.edu)
+
+
+
+
 ---
