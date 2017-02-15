@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## Publications
-Jones, Robert M., Donglei Sun, Gabriel Barsi Haberfeld, Arun Lakshmanan, Thiago
-Marinho, and Naira Hovakimyan. n.d. “Design and Control of a Small Aerial
+Jones, R. M., Sun, D., Haberfeld, G. B., **Lakshmanan, A.**,
+Marinho, T. and Hovakimyan, N. n.d. “Design and Control of a Small Aerial
 Manipulator for Indoor Environments.” In AIAA Guidance, Navigation and Control.
 Jan 2017
 
