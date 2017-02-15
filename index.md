@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome!
 
-<img class="profile-picture" src="profile_photo_square.jpg">
+<img class="profile-picture" src="cafe_picture.jpg">
 
 Hi! I am Arun Lakshmanan. I am a PhD student at UIUC studying control theory
 and robotics.
