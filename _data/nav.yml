@@ -1,6 +1,3 @@
-- name: "contact"
-  link: "contact"
-
 - name: "resume"
   link: "https://raw.githack.com/arunlakshmanan/resume-cv/master/resume.pdf"
 
