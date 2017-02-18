@@ -11,6 +11,6 @@ is_contact: true
 
 ## Social
 
-1. [Github](https://github.com/arunlakshmanan)
-2. [LinkedIn](https://linkedin.com/in/lakshmananarun)
-3. [Twitter](https://twitter.com/robot_whisperer)
+1. [Github](arunlakshmanan)
+2. [LinkedIn](lakshmananarun)
+3. [Twitter](robot_whisperer)
