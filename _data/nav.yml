@@ -1,5 +1,5 @@
 - name: "resume"
-  link: "https://raw.githack.com/arunlakshmanan/resume-cv/master/resume.pdf"
+  link: "https://raw.githack.com/arlk/resume-cv/master/resume.pdf"
 
 - name: "publications"
   link: "publications"
@@ -8,4 +8,4 @@
   link: "research"
 
 - name: "home"
-  link: "http://arunlakshmanan.com"
+  link: "http://arunl.com"
